@@ -1,0 +1,19 @@
+Screens:
+
+APP:
+	MainView:
+		Simulation:
+			Will have buttons for settings similar to the settings view that the Fruits app had
+		Preferences:
+			When you change preferences and click start it will reset all state values and re-assign them
+		About:
+			Basic about info
+		
+		The main view will allow user to go between each of those settings based on something like a table view
+
+Views:
+	Page table view:
+	Main memory view:
+
+	Both will be able to take input values 
+		
